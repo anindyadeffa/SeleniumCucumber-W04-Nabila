@@ -1,7 +1,3 @@
-## Link Youtube
-
-Youtube: https://www.youtube.com/@deffanindya
-
 # Automation Web Testing Project
 
 This project demonstrates web automation testing using Java, Selenium, TestNG, Cucumber, and Extent Report. Follow the instructions below to set up and run your tests.
